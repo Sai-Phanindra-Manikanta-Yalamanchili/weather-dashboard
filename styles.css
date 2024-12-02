@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: url('fau-background.jpg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+button {
+  background: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.toggle-link {
+  font-size: 14px;
+  color: #007BFF;
+  cursor: pointer;
+}
+
+.toggle-link:hover {
+  text-decoration: underline;
+}
+
+.message {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
