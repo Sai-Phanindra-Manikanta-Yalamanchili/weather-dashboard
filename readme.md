@@ -1,7 +1,5 @@
 ##**🌦️ Real-Time Weather Dashboard**
 
-##**ACCESS LINK: https://d2stg7y6583fpg.cloudfront.net/**
-
 ##**📌 Project Overview**
 
 The Real-Time Weather Dashboard is a cloud-based application that provides real-time meteorological data for any city worldwide. This project leverages AWS serverless architecture to offer cost-effectiveness, high availability, and scalability, ensuring users receive accurate weather information instantly. The application integrates AWS Lambda, API Gateway, Amazon S3, AWS Key Management Service (KMS), and AWS CloudWatch to ensure secure, reliable, and efficient weather data retrieval.
